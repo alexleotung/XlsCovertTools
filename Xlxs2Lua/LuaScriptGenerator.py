@@ -67,11 +67,11 @@ class LuaScriptGenerator():
 
         # write the key of this row
         if self.tableType == EnumConfigType.Dictionary:
-            key = "{}="
+            key = "%s="
             if self.types[0].lower() == "number":
-                key = "[{}]="
+                key = "[%d]="
 
-            key = key.format(row[0])
+            key = key % (row[0])
             self.exportFile.write(key)
 
         # write the items of the row
