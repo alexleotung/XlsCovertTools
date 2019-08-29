@@ -87,7 +87,7 @@ class LuaScriptGenerator():
         if row[index] == "":
             return
 
-        key = "{}={},"
+        key = "{}={}"
         if self.types[index].lower() == "string":
             key = "{}=\"{}\""
 
