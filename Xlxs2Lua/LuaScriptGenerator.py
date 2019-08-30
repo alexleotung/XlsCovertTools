@@ -55,7 +55,7 @@ class LuaScriptGenerator():
         self.titles = sheet.row_values(1)
         self.types = sheet.row_values(2)
 
-        for index in range(3, sheet.nrows-1):
+        for index in range(3, sheet.nrows):
             self.GenerateItems(sheet.row_values(index))
 
         self.exportFile.write(GlobalConst.GlobalCost.LUA_END_CONST)
