@@ -1,0 +1,69 @@
+<Dictionaries>
+<Dictionary Language="ChineseSimplified">
+<String Key="GAME_JSYS_18810161000" Value="当前为非下注时间"/>
+<String Key="GAME_JSYS_18810161001" Value="您已经在上庄列表中，请您耐心等待"/>
+<String Key="GAME_JSYS_18810161002" Value="成功下庄，期待您再次上庄！"/>
+<String Key="GAME_JSYS_18810161003" Value="您当前是庄家，请您下庄后再离开！"/>
+<String Key="GAME_JSYS_18810161004" Value="上庄成功，祝您好运！"/>
+<String Key="GAME_JSYS_18810161005" Value="您当前是庄家,不能下注"/>
+<String Key="GAME_JSYS_18810161006" Value="当前申请山庄名额已满，请您稍后再试"/>
+<String Key="GAME_JSYS_18810161007" Value="您携带金额低于上庄要求，自动下庄"/>
+<String Key="GAME_JSYS_18810161008" Value="您携带金额不足,不能进行续押"/>
+<String Key="GAME_JSYS_18810161009" Value="您当前没有押注记录！无法启动自动下注"/>
+<String Key="GAME_JSYS_18810161010" Value="当前为非下注时间"/>
+<String Key="GAME_JSYS_18810161011" Value="成功取消上庄排队申请，期待您再次上庄！"/>
+<String Key="GAME_JSYS_18810161012" Value="当前正在下注中，请您等待下注结束后，再申请下庄"/>
+<String Key="GAME_JSYS_18810161013" Value="您已下注，请您等待结算后离开！"/>
+<String Key="GAME_JSYS_18810161014" Value="您当前没有押注记录！无法启动自动下注"/>
+<String Key="GAME_JSYS_18810161015" Value="您当前是庄家,不能下注"/>
+<String Key="GAME_JSYS_18810161016" Value="下庄失败，请您稍后再试"/>
+<String Key="GAME_JSYS_18810161017" Value="上庄排队成功"/>
+<String Key="GAME_JSYS_18810161018" Value="您现在已经是庄家了，请您稍后再试"/>
+<String Key="GAME_JSYS_18810161019" Value="您携带金额不足上庄最低金额，已从上庄列表离开"/>
+<String Key="GAME_JSYS_18810161020" Value="您当前是庄家,不能下注"/>
+<String Key="GAME_JSYS_18810161021" Value="此区域下注金额已达上限，请选择其他区域下注"/>
+<String Key="GAME_JSYS_18810161022" Value="当前未开放玩家上庄功能，请您稍后再试"/>
+<String Key="GAME_JSYS_18810161023" Value="您当前是庄家,不能下注"/>
+<String Key="GAME_JSYS_18810161024" Value="请选择您要下注的筹码"/>
+<String Key="GAME_JSYS_18810161025" Value="您携带的资金不足，请确认后再次申请上庄"/>
+<String Key="GAME_JSYS_18810161026" Value="您当前没有押注记录！"/>
+<String Key="GAME_JSYS_18810161027" Value="您已经重复下注过了"/>
+<String Key="GAME_JSYS_18810161028" Value="%s%s以上才可以下注，请取出保险箱余额或充值"/>
+<String Key="GAME_JSYS_18810161029" Value="鸽 子"/>
+<String Key="GAME_JSYS_18810161030" Value="燕 子"/>
+<String Key="GAME_JSYS_18810161031" Value="银 鲨"/>
+<String Key="GAME_JSYS_18810161032" Value="金 鲨"/>
+<String Key="GAME_JSYS_18810161033" Value="兔 子"/>
+<String Key="GAME_JSYS_18810161034" Value="老 鹰"/>
+<String Key="GAME_JSYS_18810161035" Value="孔 雀"/>
+<String Key="GAME_JSYS_18810161036" Value="正在同步数据中"/>
+<String Key="GAME_JSYS_18810161037" Value="开始下注%s"/>
+<String Key="GAME_JSYS_18810161038" Value="￥%s"/>
+<String Key="GAME_JSYS_18810161039" Value=" 显示彩金  %s"/>
+<String Key="GAME_JSYS_18810161040" Value="飞禽一条龙"/>
+<String Key="GAME_JSYS_18810161041" Value=" 总结算 %s"/>
+<String Key="GAME_JSYS_18810161042" Value=" 转2次  %s"/>
+<String Key="GAME_JSYS_18810161043" Value="狮 子"/>
+<String Key="GAME_JSYS_18810161044" Value="熊 猫"/>
+<String Key="GAME_JSYS_18810161045" Value="猴 子"/>
+<String Key="GAME_JSYS_18810161046" Value="请等待下一局"/>
+<String Key="GAME_JSYS_18810161047" Value="￥+%s%s"/>
+<String Key="GAME_JSYS_18810161048" Value="无"/>
+<String Key="GAME_JSYS_18810161049" Value=" 彩金  %s"/>
+<String Key="GAME_JSYS_18810161050" Value="正在开奖"/>
+<String Key="GAME_JSYS_18810161051" Value=" 彩金池开奖爆出总金额  %s"/>
+<String Key="GAME_JSYS_18810161052" Value=" 彩金池开奖类型  %s"/>
+<String Key="GAME_JSYS_18810161053" Value=" 个人限制  %s"/>
+<String Key="GAME_JSYS_18810161054" Value="至尊海陆空"/>
+<String Key="GAME_JSYS_18810161055" Value="走兽大四喜"/>
+<String Key="GAME_JSYS_18810161056" Value="携带[color=#FFCC00]%s%s[/color]可以申请上庄"/>
+<String Key="GAME_JSYS_18810161057" Value="鲨鱼狂潮"/>
+<String Key="GAME_JSYS_18810161058" Value=" 动物倍数  %s _ret.dwGameCount %s"/>
+<String Key="GAME_JSYS_18810161059" Value=" 剩余时间  %s"/>
+<String Key="GAME_JSYS_18810161060" Value=" 库存（彩池）  %s"/>
+<String Key="GAME_JSYS_18810161061" Value="飞 禽"/>
+<String Key="GAME_JSYS_18810161062" Value="走 兽"/>
+<String Key="GAME_JSYS_18810161063" Value="￥+%s"/>
+<String Key="GAME_JSYS_18810161064" Value="系统庄家"/>
+</Dictionary>
+</Dictionaries>

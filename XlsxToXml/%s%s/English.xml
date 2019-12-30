@@ -1,0 +1,69 @@
+<Dictionaries>
+<Dictionary Language="English">
+<String Key="GAME_JSYS_18810161000" Value="No betting time!"/>
+<String Key="GAME_JSYS_18810161001" Value="You have been on the list of the dealer already, please be patient"/>
+<String Key="GAME_JSYS_18810161002" Value="Now ,you becomes a player. We are very expecting you to be a dealer again!"/>
+<String Key="GAME_JSYS_18810161003" Value="You are currently a dealer, please leave after you leave the dealer!"/>
+<String Key="GAME_JSYS_18810161004" Value="You are currently a dealer, please leave after you becoming a player!"/>
+<String Key="GAME_JSYS_18810161005" Value="You are a dealer not allowed to bet according to the game rules."/>
+<String Key="GAME_JSYS_18810161006" Value="The current application of being a dealer is full. Please try again later."/>
+<String Key="GAME_JSYS_18810161007" Value="Your gold coins is less than the requirements of becoming a dealer. You will become a player automatically."/>
+<String Key="GAME_JSYS_18810161008" Value="You don't have enough coins to continue betting."/>
+<String Key="GAME_JSYS_18810161009" Value="You  have no betting records! Unable to start automatic betting"/>
+<String Key="GAME_JSYS_18810161010" Value="No betting time!"/>
+<String Key="GAME_JSYS_18810161011" Value="The application of becoming a dealer has cancled as your wish, glad to expect you applying again to become a dealer!"/>
+<String Key="GAME_JSYS_18810161012" Value="please apply to be a player after the betting over"/>
+<String Key="GAME_JSYS_18810161013" Value="You have already bet, please wait to leave until the bet results come out!"/>
+<String Key="GAME_JSYS_18810161014" Value="You  have no betting records! Unable to start automatic betting"/>
+<String Key="GAME_JSYS_18810161015" Value="You are a dealer not allowed to bet according to the game rules."/>
+<String Key="GAME_JSYS_18810161016" Value="Becoming a player failed, please try again later"/>
+<String Key="GAME_JSYS_18810161017" Value="Queueing up to be a dealer successfully"/>
+<String Key="GAME_JSYS_18810161018" Value="You have already been a dealer , please try again later."/>
+<String Key="GAME_JSYS_18810161019" Value="You don't have enough  gold to become a dealer, Sever has already removed you from the dealer list."/>
+<String Key="GAME_JSYS_18810161020" Value="You are a dealer not allowed to bet according to the game rules."/>
+<String Key="GAME_JSYS_18810161021" Value="The betting amount of this zone has already reached the maximum. Please choose another zone to bet."/>
+<String Key="GAME_JSYS_18810161022" Value="The function of being a dealer hasn't open, please try again later"/>
+<String Key="GAME_JSYS_18810161023" Value="You are a dealer not allowed to bet according to the game rules."/>
+<String Key="GAME_JSYS_18810161024" Value="Please select the chips you want to bet."/>
+<String Key="GAME_JSYS_18810161025" Value="You don't have enough funds.Please confirm and apply to become a dealer later."/>
+<String Key="GAME_JSYS_18810161026" Value="There is no betting records of you!"/>
+<String Key="GAME_JSYS_18810161027" Value="You have already bet yet."/>
+<String Key="GAME_JSYS_18810161028" Value="You can't bet if your money is less than %s%s, please withdraw the safe gold coins or recharge"/>
+<String Key="GAME_JSYS_18810161029" Value="pigeon"/>
+<String Key="GAME_JSYS_18810161030" Value="Swallow"/>
+<String Key="GAME_JSYS_18810161031" Value="Silver shark"/>
+<String Key="GAME_JSYS_18810161032" Value="Gold shark"/>
+<String Key="GAME_JSYS_18810161033" Value="rabbit"/>
+<String Key="GAME_JSYS_18810161034" Value="Eagle"/>
+<String Key="GAME_JSYS_18810161035" Value="Hole"/>
+<String Key="GAME_JSYS_18810161036" Value="Synchronous Data%s"/>
+<String Key="GAME_JSYS_18810161037" Value="Start betting%s%s"/>
+<String Key="GAME_JSYS_18810161038" Value="¥%s"/>
+<String Key="GAME_JSYS_18810161039" Value=" Show lottery %s"/>
+<String Key="GAME_JSYS_18810161040" Value="birds in a line"/>
+<String Key="GAME_JSYS_18810161041" Value=" Total count %s"/>
+<String Key="GAME_JSYS_18810161042" Value="Spin 2 times %s"/>
+<String Key="GAME_JSYS_18810161043" Value="Lion"/>
+<String Key="GAME_JSYS_18810161044" Value="Panda"/>
+<String Key="GAME_JSYS_18810161045" Value="Monkey"/>
+<String Key="GAME_JSYS_18810161046" Value="Please wait for the next round"/>
+<String Key="GAME_JSYS_18810161047" Value="¥%s%s"/>
+<String Key="GAME_JSYS_18810161048" Value="no"/>
+<String Key="GAME_JSYS_18810161049" Value="Lottery %s"/>
+<String Key="GAME_JSYS_18810161050" Value="Lottery%s"/>
+<String Key="GAME_JSYS_18810161051" Value=" The total amount of the lottery  %s"/>
+<String Key="GAME_JSYS_18810161052" Value=" Lottery pool lottery type %s"/>
+<String Key="GAME_JSYS_18810161053" Value=" Personal limit %s"/>
+<String Key="GAME_JSYS_18810161054" Value="all areas from the air to sea"/>
+<String Key="GAME_JSYS_18810161055" Value="big four of beasts"/>
+<String Key="GAME_JSYS_18810161056" Value="Carry [color=#FFCC00]%s%s[/color] to apply to become a dealer"/>
+<String Key="GAME_JSYS_18810161057" Value="Shark shoal"/>
+<String Key="GAME_JSYS_18810161058" Value=" Animal multiple %s _ret.dwGameCount %s"/>
+<String Key="GAME_JSYS_18810161059" Value="Remaining time %s"/>
+<String Key="GAME_JSYS_18810161060" Value="Inventory (pot) %s"/>
+<String Key="GAME_JSYS_18810161061" Value="brds"/>
+<String Key="GAME_JSYS_18810161062" Value="beasts"/>
+<String Key="GAME_JSYS_18810161063" Value="¥+%s"/>
+<String Key="GAME_JSYS_18810161064" Value="Blank"/>
+</Dictionary>
+</Dictionaries>
